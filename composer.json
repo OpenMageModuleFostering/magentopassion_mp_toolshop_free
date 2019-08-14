@@ -3,10 +3,10 @@
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
-    "description": "Summary",
+    "description": "Magento theme for a Power & Hand Tools store is designed clean, friendly and high-tech.",
     "authors": [
     {
-        "name": "magentopassion",
+        "name": "magpassion",
         "email": "magentopassion@gmail.com"
     }
 ],
