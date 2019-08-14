@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/MagentoPassion_mp_toolshop_free",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Summary",
+    "authors": [
+    {
+        "name": "magentopassion",
+        "email": "magentopassion@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
